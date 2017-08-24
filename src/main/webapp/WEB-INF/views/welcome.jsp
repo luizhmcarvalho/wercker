@@ -92,7 +92,7 @@
 
 
 
-          <p>Copyright &copy; 2013, 2014 Oracle and/or its affiliates.
+          <p>Copyright &copy; 2017, 2014 Oracle and/or its affiliates.
             All rights reserved.</p>
 
         </div>
